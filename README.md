@@ -32,7 +32,7 @@ Python 3.x
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 Usage
 Clone the repository:
-git clone https://github.com/your-username/heart-disease-classification.git
+git clone https://github.com/DataCrack-Sushama/Heart-disease-classification.git
 Install the required libraries:
 pip install -r requirements.txt
 Run the notebook:
